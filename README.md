@@ -6,9 +6,10 @@ I'm a UI/UX designer & FrontEnd Developer from Barcelona.
 
 #### 🌱 I’m currently learning ...
 
-- [MEVN Stack](https://www.geeksforgeeks.org/what-is-mevn-stack/)
+- [MEVN Stack](https://www.educative.io/edpresso/what-is-mevn-stack)
 
 - [JAMstack](https://jamstack.org/what-is-jamstack/) with [Gridsome](https://gridsome.org/)
+- [LIT](https://lit.dev/)
 
 <!--
 **terremotoBCN/terremotoBCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
