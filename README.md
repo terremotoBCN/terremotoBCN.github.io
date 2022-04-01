@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+### Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/terremotoBCN/terremotoBCN.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a UI/UX designer & FrontEnd Developer from Barcelona.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 👯 I’m looking to collaborate on FrontEnd proyects. 
 
-```markdown
-Syntax highlighted code block
+#### 🌱 I’m currently learning ...
 
-# Header 1
-## Header 2
-### Header 3
+- [MEVN Stack](https://www.geeksforgeeks.org/what-is-mevn-stack/)
 
-- Bulleted
-- List
+- [JAMstack](https://jamstack.org/what-is-jamstack/) with [Gridsome](https://gridsome.org/)
 
-1. Numbered
-2. List
+<!--
+**terremotoBCN/terremotoBCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Bold** and _Italic_ and `Code` text
+Here are some ideas to get you started:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/terremotoBCN/terremotoBCN.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
